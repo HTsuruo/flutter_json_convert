@@ -1,17 +1,19 @@
 {
-    "user": [
+    "users": [
         {
             "id": "aaa",
             "name": "hoge",
-            "age": "32",
+            "age": 32
         },
         {
             "id": "bbb",
-            "age": "22",
+            "name": "piyo",
+            "age": 23
         },
         {
             "id": "ccc",
-            "age": "43",
-        },
+            "name": "bob",
+            "age": 41
+        }
     ]
 }
